@@ -4,9 +4,9 @@ public class Ready302 {
         int y = 8;
 
         if(x > y) {
-          System.out.println("xはyより大きい");
+          System.out.println(x);
         } else {
-          System.out.println("yはxより大きい");
+          System.out.println(y);
         }
     }
 }
